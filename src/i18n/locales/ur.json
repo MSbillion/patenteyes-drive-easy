@@ -1,0 +1,134 @@
+{
+  "meta": {
+    "title": "PatenteYes — Pass the Italian driving licence in your language",
+    "description": "The app for immigrants taking the Italian driving licence theory exam. With a personal AI instructor in Italian, Arabic, Urdu, Hindi and Chinese."
+  },
+  "nav": {
+    "howItWorks": "How it works",
+    "features": "Features",
+    "pricing": "Pricing",
+    "drivingSchools": "For driving schools",
+    "joinWaitlist": "Join waitlist"
+  },
+  "hero": {
+    "badge": "Launching June 2026",
+    "title": "Pass the Italian driving licence in your language.",
+    "subtitle": "With your personal AI instructor. Available in Italian, Arabic, Urdu, Hindi and Chinese.",
+    "cta": "Join the waitlist",
+    "ctaSecondary": "See how it works",
+    "earlyBird": "Early signups get 30% off at launch",
+    "phoneLabel": "App preview"
+  },
+  "trust": {
+    "stat1": "+110,000 immigrants take the exam every year",
+    "stat2": "5 languages",
+    "stat3": "Personal AI",
+    "stat4": "€9.99/month"
+  },
+  "problem": {
+    "title": "Studying for the Italian driving licence is hard when Italian isn't your language.",
+    "subtitle": "Thousands postpone the exam every year. You don't have to be one of them.",
+    "p1Title": "Language barrier",
+    "p1Desc": "The official quiz is only in Italian. Complex technical terms make studying frustrating.",
+    "p2Title": "Driving school cost",
+    "p2Desc": "Between €800 and €1,200 for a full course. An expense many can't afford.",
+    "p3Title": "Failed attempts",
+    "p3Desc": "40% of foreigners don't pass on their first try. Every failed exam is another €30 spent."
+  },
+  "solution": {
+    "title": "PatenteYes speaks your language.",
+    "subtitle": "Everything you need to pass the theory exam, in one app.",
+    "f1Title": "Native multilingual content",
+    "f1Desc": "All 7,000+ official questions translated and explained by native experts.",
+    "f2Title": "Personal AI instructor",
+    "f2Desc": "Name your instructor. Answers your questions 24/7 in your language.",
+    "f3Title": "Unlimited practice",
+    "f3Desc": "Mock exams identical to the real one. As many times as you want."
+  },
+  "howItWorks": {
+    "title": "How it works",
+    "subtitle": "Four steps to your driving licence.",
+    "s1Title": "Choose your language",
+    "s1Desc": "Italian, Arabic, Urdu, Hindi or Chinese.",
+    "s2Title": "Name your AI instructor",
+    "s2Desc": "Personalise your study companion.",
+    "s3Title": "Study at your pace",
+    "s3Desc": "Chapters, videos, quizzes. Even 10 minutes a day works.",
+    "s4Title": "Pass the exam",
+    "s4Desc": "Book it and get your licence with confidence."
+  },
+  "comparison": {
+    "title": "Compare your options",
+    "subtitle": "See why PatenteYes is the smarter choice.",
+    "feature": "Feature",
+    "patenteyes": "PatenteYes",
+    "school": "Driving school",
+    "otherApps": "Other apps",
+    "popular": "Most popular",
+    "row1": "Price",
+    "row1a": "€9.99/month",
+    "row1b": "€800–1,200",
+    "row1c": "€9.99/month",
+    "row2": "Languages",
+    "row2a": "5 languages",
+    "row2b": "Italian only",
+    "row2c": "Italian only",
+    "row3": "Personal AI instructor",
+    "row4": "Unlimited mock exams",
+    "row5": "Study anytime"
+  },
+  "languages": {
+    "title": "Available in 5 languages",
+    "subtitle": "Pick the one you're most comfortable in.",
+    "switchHint": "Click to switch language"
+  },
+  "social": {
+    "title": "Reviews",
+    "comingSoon": "Coming June 2026",
+    "placeholder": "Testimonials from our first users will appear here after launch."
+  },
+  "mission": {
+    "tag": "Our mission",
+    "title": "PatenteYes isn't just an app. It's a tool for integration.",
+    "body": "We believe mobility is freedom. For many immigrants in Italy, a driving licence is the key to a better job, an independent life and real integration. We're building PatenteYes to break down the language barrier that today blocks hundreds of thousands of people."
+  },
+  "finalCta": {
+    "title": "Be among the first to try PatenteYes.",
+    "subtitle": "Join the waitlist and get 30% off at launch.",
+    "trust": "No spam. Just the launch announcement and your early-bird discount."
+  },
+  "waitlist": {
+    "emailPlaceholder": "Your email",
+    "submit": "Join",
+    "submitting": "Sending...",
+    "languageQuestion": "Which language do you prefer to study in?",
+    "successTitle": "You're on the list! 🎉",
+    "successBody": "We sent you an email to confirm your signup. Check your inbox.",
+    "duplicate": "You're already on the list — we'll write to you in June!",
+    "invalidEmail": "Please enter a valid email",
+    "error": "Something went wrong. Please try again shortly.",
+    "confirmedTitle": "Email confirmed! 🎉",
+    "confirmedBody": "Thank you. In June 2026 you'll be among the first to know when PatenteYes is available.",
+    "confirmInvalid": "Invalid or already-used link.",
+    "confirming": "Confirming..."
+  },
+  "footer": {
+    "tagline": "The Italian driving licence, in your language.",
+    "product": "Product",
+    "business": "For business",
+    "company": "Company",
+    "legal": "Legal",
+    "howItWorks": "How it works",
+    "features": "Features",
+    "pricing": "Pricing",
+    "drivingSchools": "Driving schools",
+    "press": "Press kit",
+    "about": "About",
+    "contact": "Contact",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "cookies": "Cookies",
+    "language": "Language",
+    "copyright": "© 2026 PatenteYes SRLS — Brescia, Italy"
+  }
+}
