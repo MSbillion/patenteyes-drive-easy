@@ -1,0 +1,134 @@
+{
+  "meta": {
+    "title": "PatenteYes — Passa la patente italiana nella tua lingua",
+    "description": "L'app per immigrati che vogliono prendere la patente B in Italia. Con istruttore AI personale in italiano, arabo, urdu, hindi e cinese."
+  },
+  "nav": {
+    "howItWorks": "Come funziona",
+    "features": "Funzionalità",
+    "pricing": "Prezzi",
+    "drivingSchools": "Per autoscuole",
+    "joinWaitlist": "Iscriviti"
+  },
+  "hero": {
+    "badge": "Lancio giugno 2026",
+    "title": "Passa la patente italiana nella tua lingua.",
+    "subtitle": "Con il tuo istruttore AI personale. Disponibile in italiano, arabo, urdu, hindi e cinese.",
+    "cta": "Iscriviti alla lista d'attesa",
+    "ctaSecondary": "Scopri come funziona",
+    "earlyBird": "I primi iscritti riceveranno uno sconto del 30%",
+    "phoneLabel": "Anteprima dell'app"
+  },
+  "trust": {
+    "stat1": "+110.000 immigrati sostengono l'esame ogni anno",
+    "stat2": "5 lingue",
+    "stat3": "AI personalizzato",
+    "stat4": "€9,99/mese"
+  },
+  "problem": {
+    "title": "Studiare per la patente in italiano è dura quando l'italiano non è la tua lingua.",
+    "subtitle": "Migliaia di persone rimandano l'esame ogni anno. Tu non devi essere uno di loro.",
+    "p1Title": "Barriera linguistica",
+    "p1Desc": "Il quiz ufficiale è solo in italiano. Termini tecnici complessi rendono lo studio frustrante.",
+    "p2Title": "Costo dell'autoscuola",
+    "p2Desc": "Tra €800 e €1.200 per un corso completo. Una spesa che molti non possono permettersi.",
+    "p3Title": "Tentativi falliti",
+    "p3Desc": "Il 40% degli stranieri non passa al primo tentativo. Ogni esame fallito sono altri €30 spesi."
+  },
+  "solution": {
+    "title": "PatenteYes parla la tua lingua.",
+    "subtitle": "Tutto quello che serve per superare l'esame teorico, in un'unica app.",
+    "f1Title": "Contenuti multilingua nativi",
+    "f1Desc": "Tutte le 7.000+ domande ufficiali tradotte e spiegate da esperti madrelingua.",
+    "f2Title": "Istruttore AI personale",
+    "f2Desc": "Dai un nome al tuo istruttore. Risponde alle tue domande 24/7 nella tua lingua.",
+    "f3Title": "Quiz illimitati",
+    "f3Desc": "Esercitati con esami simulati uguali a quelli ufficiali. Quante volte vuoi."
+  },
+  "howItWorks": {
+    "title": "Come funziona",
+    "subtitle": "Quattro passi per ottenere la patente.",
+    "s1Title": "Scegli la tua lingua",
+    "s1Desc": "Italiano, arabo, urdu, hindi o cinese.",
+    "s2Title": "Dai un nome al tuo istruttore AI",
+    "s2Desc": "Personalizza il tuo assistente di studio.",
+    "s3Title": "Studia al tuo ritmo",
+    "s3Desc": "Capitoli, video, quiz. Anche 10 minuti al giorno bastano.",
+    "s4Title": "Supera l'esame",
+    "s4Desc": "Prenota e ottieni la patente con sicurezza."
+  },
+  "comparison": {
+    "title": "Confronta le opzioni",
+    "subtitle": "Vedi perché PatenteYes è la scelta più intelligente.",
+    "feature": "Caratteristica",
+    "patenteyes": "PatenteYes",
+    "school": "Autoscuola",
+    "otherApps": "Altre app",
+    "popular": "Più popolare",
+    "row1": "Prezzo",
+    "row1a": "€9,99/mese",
+    "row1b": "€800–1.200",
+    "row1c": "€9,99/mese",
+    "row2": "Lingue disponibili",
+    "row2a": "5 lingue",
+    "row2b": "Solo italiano",
+    "row2c": "Solo italiano",
+    "row3": "Istruttore AI personale",
+    "row4": "Esami simulati illimitati",
+    "row5": "Studi quando vuoi"
+  },
+  "languages": {
+    "title": "Disponibile in 5 lingue",
+    "subtitle": "Scegli quella in cui ti senti più sicuro.",
+    "switchHint": "Clicca per cambiare lingua"
+  },
+  "social": {
+    "title": "Recensioni",
+    "comingSoon": "In arrivo giugno 2026",
+    "placeholder": "Le testimonianze dei nostri primi utenti appariranno qui dopo il lancio."
+  },
+  "mission": {
+    "tag": "La nostra missione",
+    "title": "PatenteYes non è solo un'app. È uno strumento di integrazione.",
+    "body": "Crediamo che la mobilità sia libertà. Per molti immigrati in Italia, la patente è la chiave per un lavoro migliore, una vita indipendente e una vera integrazione. Costruiamo PatenteYes per abbattere la barriera linguistica che oggi blocca centinaia di migliaia di persone."
+  },
+  "finalCta": {
+    "title": "Sii tra i primi a provare PatenteYes.",
+    "subtitle": "Iscriviti alla lista d'attesa e ottieni il 30% di sconto al lancio.",
+    "trust": "Niente spam. Solo l'annuncio del lancio e lo sconto early-bird."
+  },
+  "waitlist": {
+    "emailPlaceholder": "La tua email",
+    "submit": "Iscriviti",
+    "submitting": "Invio...",
+    "languageQuestion": "Quale lingua preferisci studiare?",
+    "successTitle": "Sei nella lista! 🎉",
+    "successBody": "Ti abbiamo inviato un'email per confermare l'iscrizione. Controlla la tua casella di posta.",
+    "duplicate": "Sei già nella lista, ti scriviamo a giugno!",
+    "invalidEmail": "Inserisci un'email valida",
+    "error": "Qualcosa è andato storto. Riprova tra poco.",
+    "confirmedTitle": "Email confermata! 🎉",
+    "confirmedBody": "Grazie. A giugno 2026 sarai tra i primi a sapere quando PatenteYes è disponibile.",
+    "confirmInvalid": "Link non valido o già utilizzato.",
+    "confirming": "Conferma in corso..."
+  },
+  "footer": {
+    "tagline": "La patente italiana, nella tua lingua.",
+    "product": "Prodotto",
+    "business": "Per le aziende",
+    "company": "Azienda",
+    "legal": "Legale",
+    "howItWorks": "Come funziona",
+    "features": "Funzionalità",
+    "pricing": "Prezzi",
+    "drivingSchools": "Autoscuole",
+    "press": "Press kit",
+    "about": "Chi siamo",
+    "contact": "Contatti",
+    "privacy": "Privacy",
+    "terms": "Termini",
+    "cookies": "Cookie",
+    "language": "Lingua",
+    "copyright": "© 2026 PatenteYes SRLS — Brescia, Italia"
+  }
+}
