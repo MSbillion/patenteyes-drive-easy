@@ -1,7 +1,7 @@
 import { useTranslation } from "react-i18next";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
-import { WaitlistForm } from "./WaitlistForm";
+
 import { Sparkles, MessageCircle, BookOpen } from "lucide-react";
 
 export const Hero = () => {
