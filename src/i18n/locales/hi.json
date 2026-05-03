@@ -12,17 +12,17 @@
     "joinWaitlist": "Join waitlist"
   },
   "hero": {
-    "badge": "Launching June 2026",
+    "tagline": "Your road to the licence starts here.",
+    "subTagline": "Get the licence you've been waiting for.",
     "title": "Pass the Italian driving licence in your language.",
-    "subtitle": "With your personal AI instructor. Available in Italian, Arabic, Urdu, Hindi and Chinese.",
+    "subtitle": "With your personal AI instructor. Available in Italian, English, Arabic, Urdu, Hindi and Chinese.",
     "cta": "Join the waitlist",
     "ctaSecondary": "See how it works",
     "earlyBird": "Early signups get 30% off at launch",
     "phoneLabel": "App preview"
   },
   "trust": {
-    "stat1": "+110,000 immigrants take the exam every year",
-    "stat2": "5 languages",
+    "stat2": "6 languages",
     "stat3": "Personal AI",
     "stat4": "€9.99/month"
   },
