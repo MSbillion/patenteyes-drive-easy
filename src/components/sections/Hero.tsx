@@ -1,6 +1,5 @@
 import { useTranslation } from "react-i18next";
 import { Button } from "@/components/ui/button";
-import { Badge } from "@/components/ui/badge";
 
 import { Sparkles, MessageCircle, BookOpen } from "lucide-react";
 
@@ -11,10 +10,16 @@ export const Hero = () => {
     <section className="relative overflow-hidden bg-gradient-hero">
       <div className="container py-16 md:py-24 lg:py-32">
         <div className="grid lg:grid-cols-2 gap-12 lg:gap-16 items-center">
-          <div className="space-y-6 text-center lg:text-start">
-            <Badge variant="secondary" className="bg-secondary/10 text-secondary border-secondary/20 px-3 py-1">
-              <Sparkles className="size-3 me-1.5" /> {t("hero.badge")}
-            </Badge>
+          <div className="space-y-5 text-center lg:text-start">
+            <div className="space-y-2">
+              <p className="inline-flex items-center gap-1.5 text-sm font-semibold text-amber-600">
+                <Sparkles className="size-4" />
+                {t("hero.tagline")}
+              </p>
+              <p className="text-xl md:text-2xl font-semibold text-foreground/80 italic">
+                {t("hero.subTagline")}
+              </p>
+            </div>
             <h1 className="text-4xl sm:text-5xl lg:text-6xl xl:text-7xl font-extrabold leading-[1.05] tracking-tight">
               {t("hero.title")}
             </h1>
@@ -71,7 +76,11 @@ const PhoneMockup = () => {
             <div className="bg-primary text-primary-foreground rounded-2xl rounded-tr-sm p-3 shadow-card max-w-[85%] ms-auto">
               <p className="text-xs leading-snug">إشارة الوقوف (STOP) ثماني الأضلاع تتطلب توقفاً كاملاً...</p>
             </div>
-            <div className="bg-card rounded-2xl p-3 shadow-card border-l-4 border-secondary max-w-[90%]">
+            <div className="bg-card rounded-2xl rounded-tl-sm p-3 shadow-card max-w-[85%] border-s-4 border-amber-400">
+              <p className="text-[10px] font-semibold text-amber-600 uppercase mb-1">English</p>
+              <p className="text-xs leading-snug text-foreground">Hi! Can you explain right-of-way at a roundabout?</p>
+            </div>
+            <div className="bg-card rounded-2xl p-3 shadow-card border-s-4 border-secondary max-w-[90%]">
               <div className="flex items-center gap-2 mb-1">
                 <BookOpen className="size-3 text-secondary" />
                 <p className="text-[10px] font-semibold text-secondary uppercase">Quiz</p>
@@ -81,8 +90,8 @@ const PhoneMockup = () => {
           </div>
           <div className="mt-4 flex items-center justify-around bg-card rounded-2xl p-2 shadow-card">
             <MessageCircle className="size-5 text-primary" />
-            <BookOpen className="size-5 text-muted-foreground" />
-            <Sparkles className="size-5 text-muted-foreground" />
+            <BookOpen className="size-5 text-secondary" />
+            <Sparkles className="size-5 text-amber-500" />
           </div>
         </div>
       </div>
