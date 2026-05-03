@@ -25,6 +25,7 @@ export default {
         ring: "hsl(var(--ring))",
         background: "hsl(var(--background))",
         foreground: "hsl(var(--foreground))",
+        body: "hsl(var(--body))",
         primary: {
           DEFAULT: "hsl(var(--primary))",
           foreground: "hsl(var(--primary-foreground))",
@@ -38,6 +39,7 @@ export default {
         destructive: {
           DEFAULT: "hsl(var(--destructive))",
           foreground: "hsl(var(--destructive-foreground))",
+          soft: "hsl(var(--destructive-soft))",
         },
         muted: {
           DEFAULT: "hsl(var(--muted))",
@@ -55,6 +57,13 @@ export default {
           DEFAULT: "hsl(var(--card))",
           foreground: "hsl(var(--card-foreground))",
         },
+        green: { DEFAULT: "hsl(var(--green))", soft: "hsl(var(--green-soft))" },
+        orange: { DEFAULT: "hsl(var(--orange))", soft: "hsl(var(--orange-soft))" },
+        pink: { DEFAULT: "hsl(var(--pink))", soft: "hsl(var(--pink-soft))" },
+        purple: { DEFAULT: "hsl(var(--purple))", soft: "hsl(var(--purple-soft))" },
+        teal: { DEFAULT: "hsl(var(--teal))", soft: "hsl(var(--teal-soft))" },
+        gold: { DEFAULT: "hsl(var(--gold))", soft: "hsl(var(--gold-soft))" },
+        red: { DEFAULT: "hsl(var(--red))", soft: "hsl(var(--red-soft))" },
         sidebar: {
           DEFAULT: "hsl(var(--sidebar-background))",
           foreground: "hsl(var(--sidebar-foreground))",
@@ -67,10 +76,11 @@ export default {
         },
       },
       borderRadius: {
-        xl: "calc(var(--radius) + 4px)",
+        "2xl": "20px",
+        xl: "18px",
         lg: "var(--radius)",
-        md: "calc(var(--radius) - 4px)",
-        sm: "calc(var(--radius) - 8px)",
+        md: "14px",
+        sm: "12px",
       },
       keyframes: {
         "accordion-down": {
