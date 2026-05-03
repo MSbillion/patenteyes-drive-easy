@@ -11,17 +11,17 @@
     "joinWaitlist": "Iscriviti"
   },
   "hero": {
-    "badge": "Lancio giugno 2026",
+    "tagline": "La tua strada verso la patente inizia qui.",
+    "subTagline": "Ottieni la patente che stavi aspettando.",
     "title": "Passa la patente italiana nella tua lingua.",
-    "subtitle": "Con il tuo istruttore AI personale. Disponibile in italiano, arabo, urdu, hindi e cinese.",
+    "subtitle": "Con il tuo istruttore AI personale. Disponibile in italiano, inglese, arabo, urdu, hindi e cinese.",
     "cta": "Iscriviti alla lista d'attesa",
     "ctaSecondary": "Scopri come funziona",
     "earlyBird": "I primi iscritti riceveranno uno sconto del 30%",
     "phoneLabel": "Anteprima dell'app"
   },
   "trust": {
-    "stat1": "+110.000 immigrati sostengono l'esame ogni anno",
-    "stat2": "5 lingue",
+    "stat2": "6 lingue",
     "stat3": "AI personalizzato",
     "stat4": "€9,99/mese"
   },

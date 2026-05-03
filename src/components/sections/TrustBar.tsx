@@ -4,7 +4,6 @@ import { Users, Globe, Sparkles, Tag } from "lucide-react";
 export const TrustBar = () => {
   const { t } = useTranslation();
   const items = [
-    { icon: Users, text: t("trust.stat1") },
     { icon: Globe, text: t("trust.stat2") },
     { icon: Sparkles, text: t("trust.stat3") },
     { icon: Tag, text: t("trust.stat4") },
